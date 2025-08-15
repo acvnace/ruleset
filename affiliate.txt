@@ -4,3 +4,4 @@ DOMAIN-KEYWORD,ipts.com
 DOMAIN-KEYWORD,admitad
 DOMAIN-SUFFIX,linkresearchtools.com
 DOMAIN-SUFFIX,voluum.com
+DOMAIN-SUFFIX,cj.com
