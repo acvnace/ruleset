@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,popads.net
+DOMAIN-SUFFIX,ipts.com
 DOMAIN-KEYWORD,ipts.com
 DOMAIN-KEYWORD,admitad
+DOMAIN-SUFFIX,linkresearchtools.com
