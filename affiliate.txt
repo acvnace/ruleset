@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,linksynergy.com
 DOMAIN-SUFFIX,prf.hn
 DOMAIN-SUFFIX,avantlink.com
 DOMAIN-SUFFIX,tradedoubler.com
+DOMAIN-SUFFIX,pntrs.com
