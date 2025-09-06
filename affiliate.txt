@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,avantlink.com
 DOMAIN-SUFFIX,tradedoubler.com
 DOMAIN-SUFFIX,pntrs.com
 DOMAIN-SUFFIX,pntrac.com
+DOMAIN-SUFFIX,pepperjamnetwork.com
