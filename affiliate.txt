@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,secprf.com
 DOMAIN-SUFFIX,linksynergy.com
 DOMAIN-SUFFIX,prf.hn
 DOMAIN-SUFFIX,avantlink.com
+DOMAIN-SUFFIX,tradedoubler.com
