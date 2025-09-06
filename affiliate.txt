@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,voluum.com
 DOMAIN-SUFFIX,cj.com
 DOMAIN-SUFFIX,ojrq.net
 DOMAIN-SUFFIX,secprf.com
+DOMAIN-SUFFIX,linksynergy.com
