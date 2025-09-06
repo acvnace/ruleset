@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,pntrs.com
 DOMAIN-SUFFIX,pntrac.com
 DOMAIN-SUFFIX,pepperjamnetwork.com
 DOMAIN-SUFFIX,pxf.io
+DOMAIN-SUFFIX,pjatr.com
