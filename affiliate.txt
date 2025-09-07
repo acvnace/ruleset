@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,pepperjamnetwork.com
 DOMAIN-SUFFIX,pxf.io
 DOMAIN-SUFFIX,pjatr.com
 DOMAIN-SUFFIX,pjtra.com
+DOMAIN-SUFFIX,pntra.com
