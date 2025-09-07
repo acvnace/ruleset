@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,pxf.io
 DOMAIN-SUFFIX,pjatr.com
 DOMAIN-SUFFIX,pjtra.com
 DOMAIN-SUFFIX,pntra.com
+DOMAIN-SUFFIX,bonusarrive.com
+DOMAIN-SUFFIX,partnerboost.com
+DOMAIN-SUFFIX,partnermatic.com
