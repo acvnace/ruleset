@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,bonusarrive.com
 DOMAIN-SUFFIX,partnerboost.com
 DOMAIN-SUFFIX,partnermatic.com
 DOMAIN-SUFFIX,nisalink.com
+DOMAIN-KEYWORD,netlink
