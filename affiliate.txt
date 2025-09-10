@@ -23,3 +23,5 @@ DOMAIN-SUFFIX,partnerboost.com
 DOMAIN-SUFFIX,partnermatic.com
 DOMAIN-SUFFIX,nisalink.com
 DOMAIN-KEYWORD,netlink
+DOMAIN-SUFFIX,vbtrax.COM
+DOMAIN-KEYWORD,vbtrax
