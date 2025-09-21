@@ -29,3 +29,4 @@ DOMAIN-SUFFIX,invol.co
 DOMAIN-KEYWORD,invol
 DOMAIN-SUFFIX,grafana.com
 DOMAIN-KEYWORD,grafana
+DOMAIN-KEYWORD,newrelic
