@@ -30,3 +30,4 @@ DOMAIN-KEYWORD,invol
 DOMAIN-SUFFIX,grafana.com
 DOMAIN-KEYWORD,grafana
 DOMAIN-KEYWORD,newrelic
+DOMAIN-KEYWORD,tradetracker
