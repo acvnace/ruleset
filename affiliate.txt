@@ -31,3 +31,5 @@ DOMAIN-SUFFIX,grafana.com
 DOMAIN-KEYWORD,grafana
 DOMAIN-KEYWORD,newrelic
 DOMAIN-KEYWORD,tradetracker
+DOMAIN-KEYWORD,modlily
+DOMAIN-KEYWORD,tradedoubler
