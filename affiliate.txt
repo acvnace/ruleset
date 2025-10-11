@@ -32,3 +32,5 @@ DOMAIN-KEYWORD,newrelic
 DOMAIN-KEYWORD,tradetracker
 DOMAIN-KEYWORD,modlily
 DOMAIN-KEYWORD,tradedoubler
+DOMAIN-KEYWORD,fatcoupon
+DOMAIN-SUFFIX,fatcoupon.com
