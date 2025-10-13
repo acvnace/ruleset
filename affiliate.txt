@@ -35,3 +35,5 @@ DOMAIN-KEYWORD,tradedoubler
 DOMAIN-KEYWORD,fatcoupon
 DOMAIN-SUFFIX,fatcoupon.com
 DOMAIN-SUFFIX,popcash.com
+DOMAIN-SUFFIX,popcash.net
+DOMAIN-KEYWORD,popcash
