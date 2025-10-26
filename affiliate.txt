@@ -37,3 +37,4 @@ DOMAIN-SUFFIX,fatcoupon.com
 DOMAIN-SUFFIX,popcash.com
 DOMAIN-SUFFIX,popcash.net
 DOMAIN-KEYWORD,popcash
+DOMAIN-SUFFIX,doubleclick.net
