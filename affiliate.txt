@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,popcash.net
 DOMAIN-KEYWORD,popcash
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,cdnpc.net
+DOMAIN-SUFFIX,nr-data.net
