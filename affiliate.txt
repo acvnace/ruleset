@@ -42,3 +42,5 @@ DOMAIN-SUFFIX,cdnpc.net
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,sanity.io
 DOMAIN-SUFFIX,linksprf.com
+DOMAIN-SUFFIX,coontx.com
+DOMAIN-SUFFIX,omgt3.com
