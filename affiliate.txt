@@ -44,3 +44,4 @@ DOMAIN-SUFFIX,sanity.io
 DOMAIN-SUFFIX,linksprf.com
 DOMAIN-SUFFIX,coontx.com
 DOMAIN-SUFFIX,omgt3.com
+DOMAIN-SUFFIX,linkbux.com
