@@ -46,3 +46,5 @@ DOMAIN-SUFFIX,coontx.com
 DOMAIN-SUFFIX,omgt3.com
 DOMAIN-SUFFIX,linkbux.com
 DOMAIN-SUFFIX,gopjn.com
+DOMAIN-SUFFXI,propellerads.com
+DOMAIN-KEYWORDS,propellerads
